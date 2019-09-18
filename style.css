@@ -1,0 +1,92 @@
+h1 {
+    color:  white;
+}
+li {
+	color: white ;
+}
+ol{
+	color: white;
+}
+ul{
+	color: white;
+}
+h2{
+	color: white;
+}
+body{
+background-color: gray;
+}
+img{
+	width: 500px;
+}
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+color: white;
+}
+
+input,
+label {
+    margin: .4rem 0;
+}
+
+.preference {
+    display: flex;
+    justify-content: space-between;
+    width: 15%;
+    margin: .5rem;
+}
+form.form-example {
+    display: table;
+}
+
+div.form-example {
+    display: table-row;
+}
+
+label, input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+label,
+footer {
+    font-family: sans-serif;
+}
+
+label {
+    font-size: 1rem;
+    padding-right: 10px;
+}
+
+select {
+    font-size: .9rem;
+    padding: 2px 5px;
+}
+
+footer {
+    font-size: .8rem;
+    position: absolute;
+    bottom: 30px;
+    left: 30px;
+}
+body
+{
+  font-family: "Open Sans";
+}
+#wrapper
+{
+  border: 1px solid #888;
+  display: inline-block;
+  padding:20px;
+  
+}
+*{margin: 0;
+    padding: 0;
+    font-family: century gothic;
+}
+
